@@ -1,0 +1,13 @@
+ls -l
+ls -la
+ls -lh
+mkdir
+rmdir
+rm
+touch
+grep
+echo
+head
+less
+more
+
