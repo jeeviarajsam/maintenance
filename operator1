@@ -7,4 +7,8 @@ sap id:5014682
 mkdir
 ls -la
 ls
+mkdir 
+commit
+git push
+git pull
 
